@@ -7,3 +7,5 @@ Uses a convolutional neural network (CNN) to classify MRI scans as either tumor 
 
 # Usage
 To use the brain tumor detection system, run the BrainTumorDetection.py script with a path to an MRI scan as the input. The script will output the probability of the scan containing a tumor and a visualization of the regions of the scan that the model identified as potentially containing a tumor.
+
+Kaggle Dataset Link: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
